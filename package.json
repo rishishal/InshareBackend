@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "ts-node-dev --clear server.ts",
     "build": "tsc",
-    "start": "node dist/server.js"
-
+    "start": " ./src/node dist/server.js"
   },
   "keywords": [],
   "author": "",
