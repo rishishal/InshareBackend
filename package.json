@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev --clear server.ts",
+    "dev": "ts-node-dev --clear index.ts",
     "tsc": "tsc",
-    "start:prod": "node src/server.js"
+    "start:prod": "node src/index.js"
   },
   "keywords": [],
   "author": "",
